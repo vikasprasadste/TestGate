@@ -48,7 +48,7 @@ const nodes = [
     {name:'Datadog', url:'https://www.datadoghq.com/'},{name:'Splunk', url:'https://www.splunk.com/'},{name:'Mezmo', url:'https://www.mezmo.com/'},{name:'Graylog', url:'https://graylog.org/'},{name:'Kibana', url:'https://www.elastic.co/kibana'},{name:'Grafana', url:'https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/logs/'} ]},
   { id:'debugging', name:'HTTP Debug', x:8, y:82, size:48, color:'#ef5350', category:'Development Tools', description:'HTTP traffic debugging tools', moons:[
     {name:'Charles Proxy', url:'https://www.charlesproxy.com/'},{name:'Fiddler', url:'https://www.telerik.com/fiddler'},{name:'Proxyman', url:'https://proxyman.io/'},{name:'Http ToolKit', url:'https://httptoolkit.com/'} ]},
-  { id:'cloud', name:'Cloud Platforms', x:12, y:88, size:52, color:'#42a5f5', category:'Infrastructure', description:'Cloud service providers', moons:[
+  { id:'cloud', name:'Cloud Platforms', x:45, y:40, size:52, color:'#42a5f5', category:'Infrastructure', description:'Cloud service providers', moons:[
     {name:'AWS', url:'https://aws.amazon.com/'},{name:'Google Cloud', url:'https://cloud.google.com/'},{name:'IBM Cloud', url:'https://www.ibm.com/cloud'},{name:'Microsoft Azure', url:'https://azure.microsoft.com/'} ]},
 ];
 
